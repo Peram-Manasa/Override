@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="Override"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="06c98d9b-d0ab-406c-8c52-43728580ab2f"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

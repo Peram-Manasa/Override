@@ -1,0 +1,86 @@
+// #SPPageChrome{
+//   display: none;
+// }
+// #spoAppComponent{
+//   display: none;
+// }
+textarea:focus,
+input:focus {
+  outline: none;
+}
+.headerRow-102 {
+  display: none;
+}
+.root-42 {
+  display: none;
+}
+
+.sp-appBar {
+  margin: 0 0 0 -48px;
+}
+.shyHeader-99 {
+  display: none;
+  display: none;
+  display: none;
+}
+.shyHeader-94 {
+  display: none;
+  display: none;
+  display: none;
+}
+.shyHeader-93 {
+  display: none;
+  display: none;
+  display: none;
+}
+.sp-renameList-container .ms-Modal-scrollableContent {
+  display: block;
+  display: block;
+  display: block;
+}
+.od-ItemsScopeList-page
+  .od-ItemsScopeList-content-sticky
+  .od-ItemContent-header {
+  height: -1px;
+  height: -1px;
+  height: -1px;
+}
+#O365_SearchBoxContainer_container {
+  display: none;
+  display: none;
+  display: none;
+}
+.od-ItemContent-title librariesDropdownSibling {
+  margin-top: -1px;
+  margin-top: -1px;
+  margin-top: -1px;
+}
+.xlg .od-ItemContent-title,
+.xxlg .od-ItemContent-title,
+.xxxlg .od-ItemContent-title,
+.xxxxlg .od-ItemContent-title {
+  margin-top: -1px;
+  margin-top: -1px;
+  margin-top: -1px;
+}
+.xlg .od-ItemContent-libDropdownPadding,
+.xxlg .od-ItemContent-libDropdownPadding,
+.xxxlg .od-ItemContent-libDropdownPadding,
+.xxxxlg .od-ItemContent-libDropdownPadding {
+  margin-top: -1px;
+  margin-top: -1px;
+  margin-top: -1px;
+}
+.od-ItemsScopeList-content .ms-DetailsHeader{
+    top:-21px;
+    top:-21px;
+    top:-21px;
+}
+.LoadingScreen {
+  position: fixed;
+  z-index: 99999999999;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  background-color: #FFFFFF;
+}
